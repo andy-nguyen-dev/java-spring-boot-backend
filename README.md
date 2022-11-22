@@ -21,9 +21,11 @@ Windows PC setup (Optional)
 
 Setting up Git version control instructions:
 > 
-> Go to Github.com > New Repository > Inside "Repository Name", enter your project name.
+> Go to Github.com > New Repository > Inside "Repository Name", enter your project name. Then "Create Repository".
+>
+> (Copy your new repository URL, and paste it into step 2 below)
 > 
-> Open your Java Spring Boot project inside Intelij, and then run these commands in up your terminal (Git)
+> Open your project folder inside Intelij, and then run these commands in up your terminal. If you're on a Windows PC, make sure your terminal is using the Git Shell.
 >
 > 1. git init
 > 2. git remote add origin https://github.com/andy-nguyen-dev/java-spring-boot-backend.git
