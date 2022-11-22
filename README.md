@@ -1,21 +1,25 @@
-This project was created with https://start.spring.io/ and Intelij Idea.
-
-> To setup a similiar project:
+This Java Spring Boot backend project was created with https://start.spring.io/ and Intelij Idea. To setup a similiar project:
 > 
-> Use that spring.io website to generate and download a Spring Boot project with whatever dependencies.
-Then open up the zip file and extract your project folder. Then open up the Intelij application.
+> Go to https://start.spring.io/,  and generate a Spring Boot project with whatever dependencies. You'll be prompted to download the generated file.
 > 
-> File > New > Module From Existing Sources > Find and open your project folder
+> Download and open up the zip file. Then extract your project folder to wherever you keep your projects.
+> 
+> Open up Intelij.
+> 
+> File > New > Module From Existing Sources > Find and Open your project folder
+> 
+> You should have a bootstrapped Java Spring Boot project that's ready to run. Refer to the "itShouldBeRunnable.png" image in this root directory.
 
 
 
-> If you're working on a Windows PC, you'll need to download Git For Windows: https://git-scm.com/download/win
+Windows PC setup (Optional)
+> Download Git For Windows: https://git-scm.com/download/win
 >
-> Then you can setup Intelij to use the Git terminal by default, to run Bash commands: https://stackoverflow.com/questions/21676150/setup-git-in-intellij-terminal
+> Default your terminal shell in Intelij, to use Git and run Bash commands: https://stackoverflow.com/a/29347211
 
 
 
-> Setting up Git version control instructions:
+Setting up Git version control instructions:
 > 
 > Go to Github.com > New Repository > Inside "Repository Name", enter your project name.
 > 
@@ -28,12 +32,5 @@ Then open up the zip file and extract your project folder. Then open up the Inte
 > 5. git commit -m "initial commit"
 > 6. git push -u origin main
 > 
-> 
-> 
-> Follow the "push an existing repository from the command line" instructions:
-> 
-> 1. git remote add origin https://github.com/andy-nguyen-dev/java-spring-boot-backend.git
->
-> 2. git branch -M main
-> 
-> 3. git push -u origin main
+
+Tada! Go do dev stuff now lol. Hopefully you didn't burn yourself out already, from this setup work.
